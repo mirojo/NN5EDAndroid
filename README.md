@@ -11,3 +11,20 @@ Android Studio Con las APIs 18,19 y 23 descargadas
 
 https://developer.android.com/sdk/index.html
 
+Kali Linux 2
+
+https://www.kali.org/downloads/
+
+APKTool
+
+http://ibotpeaches.github.io/Apktool/
+
+dex2jar
+
+https://github.com/pxb1988/dex2jar
+
+JD-GUI
+
+http://jd.benow.ca/
+
+
