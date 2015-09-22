@@ -7,7 +7,7 @@ Navaja Negra 5 Edición 1-Octubre-2015
 
 ##Software necesario
 
-Android Studio Con las APIs 18,19 y 23 descargadas
+Android Studio Con las APIs 18,19, 22 y 23 descargadas
 
 https://developer.android.com/sdk/index.html
 
