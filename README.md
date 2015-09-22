@@ -27,4 +27,12 @@ JD-GUI
 
 http://jd.benow.ca/
 
+BurpSuite
+
+https://portswigger.net/burp/
+
+WireShark
+
+https://www.wireshark.org/
+
 
